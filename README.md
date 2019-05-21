@@ -1,6 +1,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+https://levelup.gitconnected.com/typescript-with-react-hooks-918060d098d2
 ## Available Scripts
+
+
+git config --global http.sslVerify false
+https://levelup.gitconnected.com/typescript-with-react-hooks-918060d098d2
+https://stackoverflow.com/questions/54789195/react-usestate-hook-isnt-updating-the-state
+
+In Typescript and ES6 you can use the spread operator to clone an array:
+
+const myClonedArray  = [...myArray];
 
 In the project directory, you can run:
 
